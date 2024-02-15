@@ -1,0 +1,1208 @@
+Filename,Text,id,Score
+Achyuth_cv.pdf,"Achyuth 540-999-8048 achyuth.java88@gmail.com  OBJECTIVE: Around 8 years of strong software 
+experience in design, development, analysis and deployment of web-based and Client-Server business 
+applications using Object Oriented Analysis and Design (OOAD, OOPS) and Java/JEE/J2EE technologies in 
+Financial, Insurance, and Health Sector Domain with Software Development Life Cycle (SDLC).  
+PROFESSIONAL SUMMARY: Actively involved in each phase of Software Development Life cycle (SDLC). 
+Expertise in client scripting language and server scripting languages like HTML5, CSS3, JavaScript, JQuery, 
+Ajax, AngularJS, NodeJS, JSON, Bootstrap. Utilized Java 1.8 features like Lambda expressions and Stream 
+API for Bulk data operations on Collections which would increase the performance of the Application 
+Hands on experience with Amazon web services (AWS) and Amazon cloud technologies such as Amazon 
+EC2 (virtual servers) and Amazon Cloud Watch (monitoring). Managed Amazon Web Services like EC2, S3 
+bucket, ELB, Auto-Scaling, SNS, SQS, AMI, IAM, Dynamo DB, Elastic search, Virtual Private Cloud (VPC) 
+through AWS Console and API Integration. Extensive experience working in Spring framework, Struts 
+framework, ORM Mapping Hibernate framework and web services. Experience using Spring MVC, Spring 
+Boot, Spring Cloud, Spring DAO, Spring Data, Spring IOC, Spring Annotations, Spring AOP, Spring 
+Transactions and Spring Security. Experience in developing applications using Micro Services 
+architecture. Expertise in developing reliable and scalable enterprise applications using Servlets, JSPs, 
+Struts, JSTL, JDBC, AJAX, EJB and Web Services. Strong work experience in application integration and 
+communicating using SOA, Web Services such as Simple Object Access Protocol(SOAP), Representational 
+State Transfer (REST/ Restful), JAX-RPC, JAX-RS, JAX-WS, WSDL, UDDI, Apache CXF, JAXB, XSD, Axis2. 
+Excellent knowledge and experience in writing SQL queries, Stored Procedures, Triggers and views using 
+various databases such as MS SQL Server, MySQL, IBM DB2, Oracle databases and NoSQL database 
+systems like Mongo DB. Expertise in XML technologies such as XSL, XSLT, XML schemas, XPath, XSL-FO 
+and parsers like SAX, DOM. Experienced in JMS over messaging to exchange the information in more 
+reliable and asynchronous way in enterprise Applications. Used Apache Active MQ and Apache Camel as 
+JMS provider. Experience in Creating and configuring the continuous delivery pipelines for deploying 
+Micro services and lambda functions using Jenkins CI server.    Â                      Experience in developing 
+logging and standard mechanism based on Log4j and SLF4j.Â  Worked on implementing full life cycle of 
+software development process (SDLC) in using version control tools like Git, Rational Clear Case, Tortoise 
+SVN, CVS (Concurrent Version System). Hands-on experience working with Continuous Integration (CI) 
+build-automation tools such as Jenkins along with Build Plugins like Maven, Gradle and Apache Ant. 
+Experienced in the formation and mentoring of project teams working on Agile methodologies to deliver 
+business critical software applications using tools like Jira. Experience in web development tools like 
+Eclipse, RAD, Spring Tool Suite, and IntelliJ. Hands on experience with Windows, UNIX and Linux 
+Environments. Experience in designing, developing, and deploying J2EE applications on IBM Web sphere, 
+Web logic, Apache Tomcat, Glassfish and JBOSS Servers.  TECHNICAL SKILLS  PROFESSIONAL EXPERIENCE 
+Client: Capital One 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            
+Mar 17 â€“ Till date              Location: Mclean, VA Role:  Full Stack Java Developer  Description: Capital 
+One is the one of largest banking sector, it has over 480,000 members and is among the top 20 credit 
+unions in the U.S.A. Capital One Home Loans servicing is a diversified bank that offers a variety of 
+checking, savings, mortgage and lending accounts and services to individuals, small businesses and 
+commercial clients.  Responsibilities: Involved in the complete SDLC (software development life cycle) of 
+the application from requirement analysis to testing.  Followed Agile Methodology in analyze, define, 
+and document the application, which will support functional and business requirements. Coordinate 
+these efforts with Functional Architects.  Extensively worked on Responsive Web Design (RWD) page 
+development using HTML5, CSS3, JQuery, JavaScript, AngularJS, and JSON. Utilized Java 1.8 features like 
+Lambda expressions and Stream API for Bulk data operations on Collections which would increase the 
+performance of the Application. Used Java 1.8Â features in developing the code like Lambda expressions, 
+creating resource classes, fetching documents from database.Â  Deployed and Monitored Micro 
+ServicesÂ Using Pivotal Cloud Foundry, also Managed Domains and Routes with the Cloud Foundry. 
+Designed, Configured and deployed Amazon Web Services (AWS) for a multitude of applications utilizing 
+the Amazon cloud formation. Experienced in setting up Amazon EC2 instances, virtual private cloud 
+(VPCs), and security groups. Setting up databases in AWS using RDS, storage using S3 bucket and 
+configuring instance backups to S3 bucket. Implemented the application using Spring IOC, Spring MVC 
+Framework, Spring Batch, Spring Boot and handled the security using Spring Security. Developed RESTful 
+API for assessment indicators module and token based authentication for RESTful servicesÂ using Spring 
+Security. Involved in building database Model, APIs and Views utilizing Python, to build an interactive 
+web based solution.Â  Used Jersey to implement Restful Web Service and used XML form to transfer the 
+data.  Developed the application using J2EE Design Patterns like Business Delegate, Factory, Singleton, 
+Session Facade, Service Locator and DAO.  Worked and involved in deployment of core platform 
+technologies, techniques, and web app frameworks such as spring, JBOSS, Tomcat, JSON, XML, HTML5, 
+and Web Services. Used Spring MVC module to develop MVC Architecture.  Worked on Apache Camel, 
+RabbitMQ for sending messages over queue.Â  Deployed the Application into Docker container and 
+made easily accessible at runtime using Cloud Foundry and other cloud services like AWS, Netflix Eureka. 
+Used Spring Security and OAuth2.0 for Authentication and Authorization of the application. 
+Implemented Spring AOP for declarative transaction management. Developed a AWS Lambda function to 
+send a request for internal service end points through API GatewayÂ using apache HTTP 
+Client.Â  Managed code versioning with GitHub and deployment to staging and production servers Used 
+Rest Controllers to replace the existing operations layer, which acts as bridge between business layer and 
+the UI.  Used Jenkins as build management tool for continuous integration process. Configured pom.xml 
+to deploy the project using Maven. Provided Technical support for production environments resolving 
+the issues, analyzing the defects, providing and implementing the solution defects.   Environment: Agile 
+Methodology, Java1.8, Lambda, J2EE,Â HTML5, CSS3, JavaScript, JQuery, AJAX, AngularJS, Bootstrap, 
+JSON, JSP, AWS, Micro Services, Oracle, RabbitMQ, Spring AOP, Hibernate, Spring Cloud, Spring MVC, 
+Spring JDBC, JDBC, Web-Services, SOA (Service-oriented) Architecture, Redis, REST, JAX-RS, Jersey, JUnit, 
+JAX-B, WebSphere, JIRA, Maven, GIT, RAD, Jenkins, MongoDB,  Cassandra,.  Client: State Farm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                 Jan 16 â€“ Feb 17  Location: 
+Dallas, TX Role: JAVA Full Stack Developer  Description: Auto Quote Purchase (AQP) application is one of 
+the many applications that are part of SF Auto Systems. Property and Causality being the main forte of 
+State Farm's business the maintenance of all the applications coming under the Auto Systems umbrella is 
+crucial. Auto Quote Purchase (AQP) is one of the many applications that are part of SF Auto Systems. 
+P&C Application support involves production support, defect fixes and minor enhancements based on 
+the SF's requirement. AQP is a web application which is used to gather customer information, generate 
+quote and provides options to purchase the Auto policies.Â   Responsibilities: Involved in SDLC 
+requirements gathering, analysis, design, development and testing of application developed using AGILE 
+methodology. Created user-friendly GUI interface using HTML5, CSS3, JavaScript, JQuery, AngularJS. 
+Implemented persistence framework using Hibernate& Handled Transaction Management using the 
+provided data source. Responsible for designing Hibernate mapping files based on business logic and 
+Object relationships. Developed restful web service APIs using Spring Framework such as Spring Core, 
+Spring MVC, SpringÂ  
+AOP and JavaÂ Persistence API with a backend PostgreSQL and CassandraÂ database. Involved in 
+developing Web Services to send XML request and reading the response SOAP UI from Java platform. 
+Consumed Web Services to interact with other external interfaces to exchange the data in the form of 
+XML and by using SOAP. Created Restful Web services using Jersey API (JAX-RS) while data exchange was 
+carried out between application and servicesÂ using JSON.Â   Spring MVC, Ajax and Dependency 
+Injection for handling presentation and business logic. To maintain loose coupling between layers 
+published the business layer as services and injected the necessary dependent components using Spring 
+IOC and published cross cutting concerns like Logging, User Interface exceptions, Transactions using 
+Spring AOP. Integrated spring and hibernate together and worked on developing backend components 
+and services using Hibernate and spring. Extensively used HQL and SQL for querying databases.  
+Developed Message Driven Bean for asynchronous sending Messages using JMS. Used Apache Camel 
+Framework to transform, extract and load the data. Used Spring Core Annotations for Dependency 
+Injection and used ApacheÂ CamelÂ to integrate spring framework.Â  Implemented request and 
+response objects using SOAP web services and created routes using ApacheÂ Camel.Â  Used Rest 
+methodology for the service layer interface and used JSON for the data transformation. Developed 
+various AJAX and JSON calls for the communication between the server and the UI. Developed web 
+services for produce and consumed the services by making Web Service Calls to remote services in 
+different applications. Used Spring JMS module for lookup for the queues and MDBs for the listeners  
+Established Database Connectivity using Hibernate O/R mapping with Spring ORM for MySQL Server.  
+Developed the Mapping Resource Files for the database entities. Packaged and deployed the application 
+in IBM Web sphere. UsedÂ IntelliJÂ as IDE to develop the application and followed the standard features 
+for debugging and running. Used log4J for application logging and notification tracing mechanisms. 
+Analysis and Bug fixing of the production problems and defects along with enhancements Used Rational 
+Clear Case for the version control Used Maven as the build tool. Used J-Unit Testing and Ant Scripts. 
+Used JIRA for tracking the Project Stories in AGILE Methodology.  Environment: Agile, Java, JDK, J2EE, 
+HTML5, CSS3, Java Script, JQuery, Ajax, AngularJS, Mongo DB, XML, Spring, Apache Camel, MVC design 
+patterns, Spring MVC, Hibernate, Ant, Maven, Netflix, Rational Clear Case, Web sphere Server, IBM Web 
+Sphere, Apache Camel, SOAP UI, JNDI, Log4J, PostgreSQL, MySQL Server, Google cloud platform, JIRA, 
+RMI, IntelliJ, IDE, LINUX.  Client: Cigna Healthcare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              Nov 13â€“ Dec 15 Location: Windsor, CT Role: Java Developer  Description: One 
+view is a web based application helping Customer Services people to view Benefit Plan information for 
+Customers, health care providers. The application helps to resolve; track customer queries online by 
+reducing overall time. The current project is reengineering the old application by replacing outdated 
+Cordiant service layer with Restful Services and Spring Integration frame work improving performance 
+and scalability.  Responsibilities: Designed and developed the REST based Micro Services using the Spring 
+Boot. Writing end-to-end flow i.e. controllers classes, service classes, DAOs classes as per the Spring MVC 
+design and writing business logics using core java API and data structures Design, develop & deliver the 
+RESTÂ APIs that are necessary to support new feature development and enhancements in an agile 
+environment.Â  Used Spring JMS related MDB to receive the messages from other team with IBMMQ for 
+queuing Developed presentation layer code, using JSP, HTML, AJAX and JQuery Developed the Business 
+layer using spring (IOC, AOP), DTO, and JTA Developed the Persistence layer DAO using HIBERNATE 
+Worked with Open symphonyÂ workflows and delivered work flow module to the client.Â  Developed 
+the project using industry standard design patterns like Singleton, Business Delegate Factory Pattern for 
+better maintenance of code and re-usability Developing application module coded on Spring Batch and 
+Apache Camel.Â  Written Jenkins pipeline template script in GroovyÂ programming language for the 
+automation of build and deployment process. Created groovyÂ scripts to extract transaction volume 
+information and email to management on daily basis.Â  Developed unit test cases using Junit framework 
+for testing accuracy of code and logging with SLF4j + Log4j Worked with defect tracking system Clear 
+Quest Worked with IDE as Spring STS and deployed into spring tomcat server, WebSphere 6 & used 
+Maven as build tool Responsible for code sanity in integration stream used Clear Case as version control 
+tool.  Environment: Java, J2EE, HTML, CSS, AJAX, JQuery, MongoDB, Apache Camel, symphony, 
+JavaScript, JSP, Spring, Spring Batch, Spring web services, XML, UML, JUNIT, IBM WebSphere, Maven, 
+Clear Case, SoapUI, Oracle 11g, Spring JMS, IBM MQ.  Client: Liberty Mutual 
+ 
+                                                          
+ 
+ 
+ 
+                                 Jan 12 - July 13   Location: Seattle, WA Role: Java Developer  
+Description: Liberty Mutual Insurance is an American diversified global insurer, and the second-largest 
+property and casualty insurer in the United States. Ecommerce application provides services such as 
+Auto Insurance and home insurance. The application is used for accessibility into the appropriate Agent 
+Center applications and generating quotes and policies, payments and reports.  Responsibilities: Involved 
+in all phases of the Software development life cycle (SDLC). Designed project related documents which 
+includes Use case, Class and Sequence diagrams. Involved in design, development, testing and 
+implementation of the process systems, working on iterative life cycles business requirements, and 
+creating Detail Design Document. UsingÂ AgileÂ methodologies to plan work for every iteration and used 
+continuous integration tool to make the build passes before deploying the code to other environments. 
+Extensive experience in developing PL/SQLÂ Stored Procedures, Functions, Packages, Cursors, Collections 
+(Nested tables and arrays), Records, Object types and Database Triggers.Â  CreatedÂ HTMLÂ Wireframes 
+based in the Detailed System Specification Document Developed the presentation layer of the 
+application usingÂ MVCÂ architecture ofÂ spring framework.Â  CreatedÂ DAOÂ classes to interact 
+withÂ DB2Â database. Used SpringÂ ORMÂ module to integrate withÂ Hibernate. Used JMS API for 
+sending and receiving the messages on the queue. Used theÂ spring validationÂ andÂ Tiles 
+FrameworkÂ in the presentation layer. Developed user interface usingÂ JSP,Â Spring Tag LibrariesÂ to 
+simplify the complexities of the application. Developed user interface withÂ Java Server Pages, 
+AjaxÂ support to speed up the application form filling. UsedÂ Apache AxisÂ as the Web Service 
+framework for creating and consumingÂ Web ServiceÂ clients usingÂ SOAP and WSDL. Used Rally for 
+tracking purpose. Designed various tables required for the project usingÂ DB2Â database. 
+UsedÂ JBOSSÂ server for deploying the application. Used Ant for build, create JAR, WAR, EAR files and 
+deploy the EAR files automatically.Â  Used Junit to test the application classes. UsedÂ Log4JÂ to capture 
+the logging information.  Environment: Java, J2EE, JavaScript, JSP, AJAX, XML, Agile, Spring, Eclipse IDE, 
+DB2, Rational Rose, Log4j, Junit, Ant, JBOSS, Rally, Apache Axis, Web Service, SOAP, WSDL.  Client: Soft 
+Pro Systems Ltd.                                                                                                                                             Sep 10 - 
+Dec 11 Location: Hyderabad, India 
+ 
+ 
+ 
+ 
+ 
+ 
+ Role:  Java 
+Developer    Description: This project is mainly an Intranet application meant for employees in the 
+organization. They are Intranet mailing System, Chatting, File Transfer and Remote Login. This project is 
+based on the client server methodology.  Responsibilities:Â  Involved in the design and development of 
+an entire Module â€“ Guided Set Up. Developed user interface through JSP and Servlets.Â  Developed 
+Action classes and Action Forms using the struts framework.Â  Developed Customs tags to display 
+dynamic contents and to avoid large amounts of java code in JSP pages Connected to database through 
+JDBC.Â  Extensive experience working with XML (DOM and SAX). Used SQL-server to store the items in 
+the database. Used Session beans for navigation of steps. Used Entity beans for storing the database in 
+to database. Developed Session Beans as the clients of Entity Beans to maintain the Client state. 
+Developed Ant Scripts to build and deploy EAR files on to Tomcat Server. Analyzed the EJB performance 
+in terms of scalability by various Loads, Stress tests using Bean- test tool. Extensively used Eclipse while 
+writing code as IDE. Written complex SQL queries, stored procedures, functions and triggers in 
+PL/SQL.Â  Developed test cases and used Junit for Unit Testing.Â  Used CVS for version controlling.  
+Environment: Java, J2EE, Servlets, XML (DOM and SAX), JSP, EJB, JavaScript, CSS, JDBC, Struts, Ant, Web 
+Logic Application Server, WSAD, Eclipse IDE, SQL-Server, Apache Tomcat, Oracle, PL/SQL, CVS, PVCS, 
+Junit, Windows.  Client:  Login IT Technologies 
+ 
+ 
+                                                                                                      
+May 09 - Aug 10 Location: Hyderabad, India Role: Java Developer  Description:  PRS or Price reporting 
+system is responsible to publish the rates to the customers and as to maintain the users across the FedEx 
+locations and its subsidiaries. It interacts with the customer fusion and existing legacy systems to access 
+the customer information and legacy data.  Responsibilities: Developed web application using Struts 2.X, 
+JSP, Servlets, Java beans that uses MVC design pattern Created user-friendly GUI interface and Web 
+pages using HTML, CSS and JSP Wrote JavaScript for client-side validation. Used Eclipse as IDE tool for 
+creating Servlets, JSP, and XML. Wrote SQL for JDBC prepared statements to retrieve the data from 
+database. Monitored the logs using Log4J and fixed the problem The application was deployed on the 
+Tomcat. Involved in build and deploying the application using ANT   Used CVS as version control system  
+Worked on bug fixing and Production Support  Environment: Java, JDBC, Struts, JavaScript, HTML, CSS, 
+JSP, Servlets, Tomcat, Oracle, Eclipse IDE, CVS, ANT, Log4J. 
+",1,10.0
+Adhi_Gopalam__cv.pdf,"Name- Adhi Gopalam 
+IT Skills: Area Exposure Modeling Tool: Bizagi, MS Visio Prototyping Tool: Indigo Studio. Documentation: 
+MS Office (MS Word, MS Excel, MS Power Point) Testing Proficiency: Smoke, Sanity, Integration, 
+Functional, Acceptance and UI Methodology implemented: Waterfall, Agile (Scrum) Database: SQL 
+Testing Tool: HPQC Business Exposure Education Details  
+ Bachelor Of Computer Engineering Computer Engineering Mumbai, Maharashtra Thadomal Shahani 
+Engineering college 
+ Diploma Computer Engineering Ulhasnagar, Maharashtra Institute of Technology 
+ Secondary School Certificate  Ulhasnagar, Maharashtra New English High School 
+Senior Business Analyst - RPA  
+ 
+Senior Business Analyst - RPA - Hexaware Technologies 
+Skill Details  
+DOCUMENTATION- Exprience - 47 months 
+TESTING- Exprience - 29 months 
+INTEGRATION- Exprience - 25 months 
+INTEGRATOR- Exprience - 25 months 
+PROTOTYPE- Exprience - 13 monthsCompany Details  
+company - Hexaware Technologies 
+description - Working as a RPA Business Analyst 
+company - BBH- Brown Brothers Harriman & Co 
+description - is a private bank that provides commercial banking, investment management, brokerage, 
+and trust services to private companies and individuals. It also performs merger advisory, foreign 
+exchange, custody services, commercial banking, and corporate financing services. 
+ 
+Responsibilities: Ã¢Â€Â¢ Performed Automation Assessment of various Processes and identified 
+processes which can be candidates of RPA. 
+Ã¢Â€Â¢ Conducting Assessment that involves an initial Understanding of the Existing System, their 
+technology, processes, Usage of the tools, Feasibility of tool with automation tool along with automation 
+ROI analysis. 
+Ã¢Â€Â¢ Preparing the Automation Potential Sheet which describes the steps in the process, the volume 
+and frequency of the transaction, the AHT taken by SME to perform the process and depending on the 
+steps that could be automated, Automation potential and the manual efforts that will be saved are 
+calculated. 
+Calculating the complexity of the Process which is considered for automation and depending on all these 
+factors Number of Bots and Number of Automation tool Licenses are determined. 
+Ã¢Â€Â¢ Implementing a Proof of Concept (POC) to Validate Feasibility by executing the selected critical 
+use cases for conducting a POC which will helps to identify financial and operational benefits and provide 
+recommendations regarding the actual need for complete automation. 
+Ã¢Â€Â¢ Gathering business requirements by conducting detailed interviews with business users, 
+stakeholders, and Subject Matter Experts (SME's) Ã¢Â€Â¢ Preparing Business Requirement Document 
+and then converted Business requirements into Functional Requirements Specification. 
+ Ã¢Â€Â¢ Constructing prototype early toward a design acceptable to the customer and feasible. 
+Ã¢Â€Â¢ Assisting in designing test plans, test scenarios and test cases for integration, regression, and 
+user acceptance testing (UAT) to improve the overall quality of the Automation. 
+Ã¢Â€Â¢ Participating regularly in Walkthroughs and Review meetings with Project Manager, QA 
+Engineers, and Development team. 
+Ã¢Â€Â¢ Regularly interacting with offshore and onshore development teams. 
+company - FADV - First Advantage 
+description - is a criminal background check company that delivers global solutions ranging from 
+employment screenings to background checks. 
+The following are the processes which were covered: 
+Email Process, Research Process, Review Process. 
+ 
+Responsibilities: Ã¢Â€Â¢ Requirement Gathering through conducting Interviews & Brainstorming 
+sessions with stakeholders Ã¢Â€Â¢ To develop decision models and execute those rules as per the use 
+case specifications. 
+Ã¢Â€Â¢ To Test/validate the decision models against document test data. 
+Ã¢Â€Â¢ To maintain and enhance the decision models for changes in regulations as per use case 
+specifications. 
+Ã¢Â€Â¢ Responsible for performing the business research that will make a business growth. 
+Ã¢Â€Â¢ Developing a clear understanding of existing business functions and processes. 
+Ã¢Â€Â¢ Effectively communicate with the onsite clients for the queries, suggestions, and update. 
+Ã¢Â€Â¢ Giving suggestions to enhance the current processes. 
+Ã¢Â€Â¢ Identifying areas for process improvement. 
+Ã¢Â€Â¢ Flagging up potential problems at an early stage. 
+Ã¢Â€Â¢ Preparing PowerPoint presentations and documents for business meetings. 
+Ã¢Â€Â¢ Using any information gathered to write up detailed reports. 
+Ã¢Â€Â¢ Highlighting risks and issues that could impact project delivery. 
+Ã¢Â€Â¢ Able to work accurately. 
+Ã¢Â€Â¢ To develop and maintain documentation for internal team training and client end user 
+operations. 
+Ã¢Â€Â¢ To work efficiently with team members and across teams. 
+Ã¢Â€Â¢ To mentor and train junior team members. 
+company - Clinical Testing, Lab Work and Diagnostic Testing 
+description - IQVIA provides services to its customers this includes: Clinical Testing, Lab Work and 
+Diagnostic Testing under clinical trial. These customers need to pay to IQVIA and aging details and 
+invoices are generated for the same. 
+The following are the processes which were covered: 
+ 
+Tracking Payments, Automated Real Time Metrics Reporting (Dashboard), Past Due Notifications, AR 
+Statements, Credit/Rebill. 
+Responsibilities: Ã¢Â€Â¢ Conducting meetings with clients and key stakeholders to gather requirements, 
+analyze, finalize and have formal sign-offs from approvers Gather and perform analysis of the business 
+requirements Ã¢Â€Â¢ Translating the business requirements into the Business Requirement Document 
+[BRD], Functional Requirement Document [FRD]. 
+Ã¢Â€Â¢ Facilitating meetings with the appropriate subject matter experts in both business and 
+technology teams Ã¢Â€Â¢ Coordinating with business user community for the execution of user 
+acceptance test as well as tracking issues Ã¢Â€Â¢ Working, collaborating and coordinating with Offshore 
+and Onsite team members to fulfill the BA responsibilities from project initiation to Post-Implementation 
+Ã¢Â€Â¢ Reviewing the test scripts with business users as well as technology team. Execute test scripts 
+with expected results for the System Integration Test (SIT) and User Acceptance Test (UAT) Ã¢Â€Â¢ 
+Coordinating and conducting the Production Acceptance Testing (PAT) with the business users Ã¢Â€Â¢ 
+Creating flow diagrams, structure charts, and other types of system or process representations Ã¢Â€Â¢ 
+Managing changes to requirements and baseline through a change control process Ã¢Â€Â¢ Utilizing 
+standard methods, design and testing tools throughout project development life cycle Ã¢Â€Â¢ Work 
+closely with the operational functional teams, operations management, and personnel, and various 
+technology teams to facilitate a shared understanding of requirements and priorities across all areas 
+company - Eduavenir IT Solution 
+description - Project: M.B.M.S 
+ 
+M.B.M.S. - is an Inventory management application that allows user to manage inventory details of 
+different warehouses, having different products located at various locations and help extract what goods 
+have been procured, sold or returned by customers. It generates automated invoicesalong 
+withcustomized reports. It also managescustomer complaint and resolution system implementation 
+along with automated MIS on monthly basis.Sales and forecastingis also developed on MIS System and 
+the streamlining of process of warehousing and dispatch along with online proof of delivery 
+management system (POD documentation) is generated. 
+ 
+Responsibilities: Ã¢Â€Â¢ Participate in requirement gathering discussion with client to understand the 
+flow of business processes Ã¢Â€Â¢ Analyze the requirements and determine the core processes, 
+develop Process Documentation and ensure to stay up-to-date in conjunction with on-going changes 
+Ã¢Â€Â¢ Participate in process flow analysis and preparing BRD, SRS. 
+Ã¢Â€Â¢ Coordinating with developers, designers & operations teams for various nuances of the project, 
+communicate the stakeholder requirements from requirement /enhancement to implementation and 
+finally deliver the same within estimated timeframe. 
+Ã¢Â€Â¢ Support UAT by reviewing test cases, manage version control of documents, software builds. 
+Ã¢Â€Â¢ Coordinate with the stakeholders for UAT sign off and coordinate internally for production 
+movement till Golive stage of the application. 
+Ã¢Â€Â¢ Provide demo and training to internal and end user using PowerPoint presentation. 
+Ã¢Â€Â¢ Resolving project functional &technical issues during UAT. 
+Ã¢Â€Â¢ Prioritizing the Production bugs and resolving the same within the estimated timeframe. 
+Ã¢Â€Â¢ Preparing Project Status Report and Production Bugs Status to all the stakeholders. 
+Ã¢Â€Â¢ Promoting and Networking for online trading platform. 
+Ã¢Â€Â¢ Designing query sheet for obtaining and comparison of quotes from various vendors. 
+Ã¢Â€Â¢ Development of product codes / material codes for inventory management (Master Data 
+Management) 
+company - CAPGEMINI Head Office 
+description - Type: Mobile and Device Testing.       Duration: January 2014 - August 2014 
+ 
+Follet - An application which takes an electronic request from the user for the books he requires from a 
+particular follet store. This detailed information about books that will include the name of the book, its 
+price, the date of the transaction and the parties involved which will then be sent to follet stores. User 
+then create request for one or more books for a given date. This request is then processed further and 
+user gets a mail of the date when he will be provided with that book. 
+ 
+Responsibilities: Ã¢Â€Â¢ Understanding the needs and business requirements. 
+Ã¢Â€Â¢ Preparing BRD, SRS by eliciting all the requirements from the client and SMEs Ã¢Â€Â¢ 
+Understanding the dependency of the modules in the system Ã¢Â€Â¢ Preparation of test plan for Unit 
+level and Integration level. 
+Ã¢Â€Â¢ Preparation and execution of test cases. 
+Ã¢Â€Â¢ Defect tracking, Issue Resolution, Risk Monitoring, Status Tracking, Reporting and Follow-up. 
+Ã¢Â€Â¢ Preparation of Test Completion report. 
+company - CAPGEMINI Head Office 
+description -  
+company - CAPGEMINI Head Office 
+description - Humana is a health care insurance project of U.S. which deals with supplying various 
+medicines to citizens as per the doctor's reference and patient's insurance policy. This application keeps 
+track of all the medicines user has consumed in the past and generates a patient history. A citizen is 
+given a drug only after the doctor's reference so the doctor's information is also linked with the patient's 
+history. 
+ 
+Responsibilities: Ã¢Â€Â¢ Understanding the requirements and getting clarifications from client. 
+Ã¢Â€Â¢ Involved in writing test cases based on test scenarios and execute them. 
+Ã¢Â€Â¢ Ensuring Test Coverage using Requirement Traceability Matrix (RTM) Ã¢Â€Â¢ Preparation of Test 
+Completion report. 
+company - CAPGEMINI Head Office 
+description - Testing Trends WQR (World Quality Report) is an application which allows the users to take 
+a survey on different methods and technologies used for testing. Users can choose to answer any type of 
+questions under three different categories. Users have a facility to search, view and export the data to 
+excel. Also, users get daily and weekly reports through email about the new trends in testing 
+implemented around the globe. Testing Trends WQR app is available on Android and IOS platforms. 
+ 
+Responsibilities: Ã¢Â€Â¢ Understanding the requirements and getting clarifications from client. 
+Ã¢Â€Â¢ Writing test cases based on test scenarios and executed them. 
+Ã¢Â€Â¢ Performing different types of testing such as Functional, Integration, System, and UAT. 
+Ã¢Â€Â¢ Defect resolution and maintenance of the application. 
+",2,7.000000000000001
+Adhi_Gopalam_adhigopalam.pdf,"Adhi Gopalam adhigopalam@gmail.com 281-212-3592  Certified Scrum Master and Business Analyst 
+with over 12 years of experience in independently managing mid to large projects with experience in the 
+Healthcare, Pharmaceutical (FDA Regulated), Banking and Retail industries  Exceptional organizational, 
+technical reporting, auditing/analysis and communication skills.  Agile Project Management experience 
+of the full project life cycle including requirements gathering, Scheduling and facilitating key agile 
+ceremonies, velocity planning, obtaining and managing resources, conducting daily stand-ups, burn 
+down charts, Product Demos, Retrospectives, Process documentation, managing budget, and facilitating 
+project execution, deployment, and closure with a multicultural team in geographically distributed 
+environments.  One has consistently achieved strategic and tactical goals of the organization using strong 
+technical, and management experience to improve delivery schedules and substantial reduction of costs. 
+As a Project Manager, my responsibilities, while administering projects, included definition of the scope 
+of the Project, Identifying and mitigating risks, periodically monitoring the performance of the project 
+team, providing regular updates to the stakeholders that comprised of the Top Management, Line 
+Managers and end users, mentoring and transfer of knowledge.  The key to my success is the ability to 
+provide solutions to complex challenges with clear communication between teams and stakeholders.  
+Professional Strengths:  Agile Project Management Scrum Master/Coach Resource Management  
+Quality Assurance User Training  Deployment of Best Practices  Process re-engineering  Technical Skills: 
+Project Experience:  Black box Network, Pittsburgh, PA  
+ 
+ 
+ 
+ 
+ 
+          
+Jul â€™17 - Present Scrum Master Project: BEST (SAP and ServiceNow Integration)   Responsibilities:  
+Working closely with the teams through agile events coaching on performing the activities, playing the 
+roles and generating artifacts based on SAFe and Agile best practices Successfully migrated projects from 
+Waterfall to Agile-Scrum and ensure team adopt agile way of working Trained teams in Agile, SAFe, 
+Kanban, Confluence, and JIRA tool implementation Organized and facilitated Sprint planning, daily stand-
+ups, reviews, retrospectives, sprint/release planning, demos and other Scrum-related meetings  Track 
+and communicate team velocity and sprint/release progress with, and to all affected teams and 
+management Involved in brainstorming sessions, analyzing the business processes, requirement 
+gathering, Mapping the As-Is process and designing To-Be Processes Ensuring Implementation of TDD 
+driven development related to WRICEFs and User Stories Analyzed the Product Backlog along with PO, 
+performed ambiguity reviews and communicated the inconsistencies to the Configuration Team 
+Constant coaching team on E2E process of Order Management related settings such as Order to Cash 
+(OTC), Sales document types, Pricing Procedures, Item Categories, Schedule Lines, Outbound Delivery 
+types, Contracts, Return Orders and Billing Management of the Test Data availability in Test environment 
+through LSMW and BDC Played a key role in the planning User Accepted Testing (UAT) and 
+implementation of system enhancements and conversions Work closely with other scrum teams to 
+facilitate planning and execution of programs Ensured that the User Stories meet the INVEST principal 
+(Independent, Negotiable, valuable, Estimable, Small, Testable)  Created and maintained Sprint Burn-
+down Chart, Sprint Burn-up Chart and Product Burn-Down Chart to keep the track of the team's progress 
+and the team's velocity for better estimation of the sprint life cycle Communicated the status of the 
+Product Backlog Item to product Owner and external stakeholders on a regular basis Effectively involved 
+in conducting Planning poker technique for estimating the User stories Helped the Product Owner to 
+prioritize the Product backlog items (PBI's) for developing Sprint tasks by taking suggestions from the 
+cross-functional development team using Kano model Constantly connected with other scrum masters 
+to share and learn experience to improve the velocity of team Helped the team stay focused by 
+removing impediments, protecting them from distractions and keeping team meetings lean and efficient 
+Created and maintained information tools: sprint board, burn-down charts, burn-up charts, progress 
+dashboards, etc. Used JIRA for drafting the User Stories and managing the requirements and defects 
+track Estimating backlog using T-shirt mechanism.  Implementing Acceptance test based driven 
+development (ATDD) development.  Coordinating with TDM, BA for further backlog updates for different 
+scrums.   Discussion with all the stakeholders on architecture and Product backlog   Environment: 
+ServiceNow, Salesforce.com (SFDC), Kronos, ADP, SAP S4 HANA â€“ MM, SD, SM, EWM, RAR, HR & FI/CO, 
+SAP PI, FIORI, Web Services, JIRA & Blue works live Philips Healthcare, Baltimore, MD 
+ 
+ 
+ 
+ 
+ 
+        
+         May â€™08 â€“ June 17 PM/Scrum Master Project: TeamSite 
+(CMS), Salesforce (OneEMS), Hybris, TrackWise and CAPA  Responsibilities:  Collaborate, facilitate, lead 
+and coach 3 scrum teams distributed among USA, Netherlands, and India while working on multiple 
+project simultaneously.  Successful Implementation and launch of mobile device program, for population 
+health management (H2H) integrated with medical devices based in Bluetooth and IR connected devices 
+Coaching team in value-based prioritization and challenge the norm, time to time to ensure focus is on 
+delivering value. Coaching Product owner and team in writing effective user stories Develop and deliver 
+organization-training materials and conducted workshops, Kaizen, building knowledge and skills to 
+facilitate the agile transformation from waterfall software development. Continually coaching teams on 
+Agile Scrum process while increasing quality and velocity Manage internal and external resources to 
+optimize client impact within project budget, timeline and deliverables and agreed upon scope for 
+TrackWise migration. Maintained Sprint & Kanban boards in JIRA and TFS to ensure sprint goals & 
+milestones are being met Worked with several cross functional teams, often with conflicting priorities, to 
+ensure timelines are met while also ensuring compliance to company policies and procedures  Increasing 
+the team's agile fluency through coaching the team to embrace and embed lean and agile practices in 
+their work Planned and facilitated various Scrum/Kanban meetings (Standup, sprint review, retrospective 
+and planning)  Ensure the development teams are practicing the core agile principles of collaboration, 
+prioritization, team accountability, and visibility Facilitating discussion and conflict resolution, assisting 
+with internal and external communication, improving transparency, and radiating information;  Enabling 
+the team to become self-organized and empowered teams that consistently deliver on their sprint 
+commitments Managed progress of functional, system, integration, mobility, security and performance 
+testing teams and monitor defects to bring it to closure Preparation of SoW with estimation of time, 
+effort, cost and resources for manual and automation testing Managing multi-geographical distributed 
+(onsite and offshore) agile scrum teams with the combination of FDA validation projects Utilized Agile 
+Methodology to configure and develop process, standards, and procedures to create a Business 
+Requirement Document (BRD) Identifying and assessing the risk, mitigating the risk, handling exceptions 
+& problems Monitoring the project activities against the approved budget and schedule Managed 
+content management system (CMS) migration project of Teamsite 7.2.1 to Teamsite 8.1 and later 
+migrated to Adobe CQ5 Ability to use Six Sigma/lean methodologies combined with data analytic 
+findings for business process improvement. Also used Six sigma tools for analysis activities Applied RUP 
+methodology with its various workflows, artifacts and activities to manage life cycle from inspection to 
+transition phase.  Acted as liaison between external clients and SMEs to generate and standardize 
+product requirements specification documents such as URS/FRS/Use Cases.   Environment: MS Office, 
+Rally, Team Foundation Server (TFS), Salesforce.com (SFDC), SAP CRM, Hybris, SoapUI, TeamSite (CMS), 
+SAP ECC, Web Services, Doors, MS Project, HP ALM, QTP, and LoadRunner   Bose Corporation, Stow, MA 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+        Nov â€™07 â€“ Apr â€˜08 PM/Business 
+Analyst Project: Demand Driven (D2 Supply Chain)   Responsibilities: Responsible for the role of Project 
+Manager and Scrum master for the Scrum teams in the project Lead Sprint planning, Sprint Reviews and 
+Scrum of Scrums (SoS) for all the teams in the domain Coached the teams to be self-organizing and 
+ensured the adherence of all the Scrum concepts and processes Ensured project's adherence to 
+Enterprise Agile Life cycle Developed automated metrics for Agile/Scrum for Executive Leadership team 
+Supported projects by implementing Agile Life Cycle Management Tool â€“ â€œRallyâ€QA team to write the scripts from scratch  Worked closely with IT Team to test for new Clients client 
+maintenance  Worked closely with the project management on project delivery dates, scheduling bug fix 
+promotions to test environment  Interact with developers to prioritize/resolve the defects.  Responsible 
+to write and execute the End-to-End Test Plan.  Worked closely with the User Acceptance Testing team to 
+review the UAT issues and/or enhancements.  Participate in project pre-implementation plan and post-
+implementation plan meetings.  Participate in application demonstrations.  Involved in design to 
+automate the scripts  Involved in upgrade Oracle from 9i to 10g  Coordinate with third party vender to 
+complete the code editing project  Environment: Issue Log (Access), QA Director, Test Partner, Track 
+Record,Â Windows XP,Â Java, Oracle 9i, Oracle 10g, Oracle Reports, Toad, Ultra EditÂ   Other Companies 
+worked in the past:  Federal Reserve Bank of Richmond, VA 
+ 
+       
+ 
+                                      
+ 
+ 
+Jul â€™05 â€“ Oct â€˜06 Business Analyst  Calamos Investments, IL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                       Dec â€™04 â€“ Jun â€˜05 QA Analyst   Education:  
+MBA from Vinayaka Mission, Salem, Tamilnadu, India. Pursuing MS in Security Systems from Southern 
+New Hampshire University, US   
+",3,11.0
+Ajay_Kumar.pdf,"Ajay Kumar (CSM) 
+      
+ 
+     Email/Skype: ajaydt@gmail.com; Mob. +1 (847)899-4194 
+PROFESSIONAL SUMMARY: 14 Years IT experience as an Architect, Solutions, Scrum Master, Quality 
+Assurance and Agile Practitioner (Agile Methodology - Healthcare) with SAFe (Scaled Agile Framework) 
+including ETL Testing and Web Services, Selenium Automation engagement of Web application, Project 
+management and technical team handling experience from 20+ associates. Extensive health care 
+background with software implementation knowledge and extensive background in Retail, eCommerce, 
+Point of Sale,  Banking & Finance, Cards & Payments, Government, Education projects. Strong experience 
+in Agile Testing concepts and Testing process, experience in managing complex issues and risks, including 
+appropriate verbal and written. Prepares and follows up on regular Scrum events; including daily scrum, 
+sprint planning sessions, backlog grooming, retrospectives. Facilitation and coordination of Agile 
+Program Increment (PI) planning. Uses metrics to track and review team performance including Burn-
+down charts, velocity, and other sprint and release metrics. Promoting continuous improvement to 
+increase team effectiveness and helping the organization and key stakeholders in adapting an Agile 
+mindset. Experience working with Product Owners, architecture, technical leads and other stakeholders 
+to manage cross team and their dependencies. Expertise in Test Governance & Test process compliance, 
+vast experience working in a client and business facing role. Create test plans, traceability matrices and 
+test impact analysis documents. Design and develop test cases using industry best practices; report 
+defects utilizing industry standard defect tracking tools. Excellent knowledge in testing metrics and 
+ability to utilize them in day to day testing activities. Review complex software requirements and uncover 
+requirements defects. Specialized in web and E-commerce testing, test automation scripts using 
+Selenium and Java. Advanced experience of various phases of Software Development Life Cycle (SDLC) 
+while understanding the role of tester in each phase. Quality Plan documentation, involved in Project 
+planning documentation included budgeting, staffing profiles, project timelines, issue tracking, and 
+dependency tracking. Excellent analytical, problem solving, troubleshooting skills and Well acquainted 
+with the SDLC, Agile and STLC. Expertise in HP ALM, Rally, Jira, Bugzilla, Selenium Web Driver, TestNG, 
+SOAP UI, REST, WinSCP, ETL, Putty, SQL Developer tools for current project. Experience in Release 
+Management lifecycle and deploy releases into production which includes scheduling, coordinating and 
+the management of releases across the enterprise for multiple Applications Updates, Hotfixes, Security 
+Improvements, Operating System updates. Advanced technical knowledge including an understanding of 
+Continuous Integration tools used as Jenkins to achieve efficient and fast delivery and accelerate time to 
+value and even revenue. Expert in leading the validation of multiple complex interfaces with broad 
+knowledge of Integration Testing (creating and executing test cases at the Unit/ Integration/ System 
+level/UAT), Automated Testing (Web Testing, GUI, Client Server) and Field Validation (Client-side, Server-
+side and ETL database). Experience in meeting tight timelines and delivery quality work to customer 
+including reviewing cross discipline deliverables. Extensive elicitation abilities through SWOT Analysis, 
+Surveys and well facilitated JAD sessions to understand the As-Is business model to gather User and 
+Business Requirements. Excellent organizational and presentation skills in directing the To-Be model of 
+the business through proper GAP Analysis in order to generate the necessary Business Requirements 
+Document (BRD), System Requirements Specification (SRS), Functional Requirements Document (FRD), 
+Change Request Processes (CRP), and Contingency Planning (CP). Knowledge and experience working on 
+smoke testing, debugging. Experience in data mining, data analysis, data manipulation, database 
+statistics, Data warehousing. Excellent verbal and communication skills necessary to elicit requirements 
+through observation, surveys, interviews, Joint Application Development (JAD) sessions and 
+Brainstorming with Business Owners, Business Users, SMEs and other stakeholders. Experience 
+implementing Unified Modeling Language (UML) and MS VISIO in creating Use Cases, Sequence 
+Diagrams, Collaboration Diagrams, Activity Diagrams and Class Diagrams. Change Request Management 
+experience including industry standard CRM tools. Experience in creating WBS (Work Breakdown 
+Structure) with dependencies and project stakeholders using MS Project. Experience in tracing 
+requirements throughout the development process and verifying adherence to Requirement Traceability 
+Matrix (RTM). Significant experience in reviewing Test Procedures, creating Test Cases and conducting 
+User Acceptance Testing (UAT). Role includes: Technical guidanceâ€™s to the team, Web Testing, 
+Database Testing, Automation, Business Intelligence, project monitoring and control, resource allocation, 
+drafting project proposals, effort estimations, schedule, project report and status, training, managing 
+interview drives /conduct, onsite-offshore coordination.  TECHNICAL SKILL-SET:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Tools 
+     
+:  
+MS Projects, Visio, 
+Office, SharePoint, Rally, Jira, PlanView Methodologies      
+:  
+Agile and Scrum Model, 
+Waterfall, V Model Functional Tool 
+     
+:  
+Selenium, HP UFT, QTP, Winrunner, Rational 
+Robot, SOAP/REST  Performance Tool 
+     
+:  
+JMeter, SQL Query Analyzer, Dynatrace Defect 
+Mgmt. Tool 
+     
+:  
+Rally, Bugzilla, Jira, Rational Clear Quest, TIR Test Mgmt. Tool 
+    
+ 
+:  
+HP ALM, Quality Center, Test Director Database  
+     
+:  
+Oracle, SQL-
+Server, InfosphereÂ DataStage, ETL, QMF, Squirrel Languages Conscious  :  
+C++ (OOP Concept), 
+Unix, VB Script, Java Script, WSDL, XML Configuration Tools 
+     
+:  
+GIT, GitHub Extension, 
+SVN, CVS, VSS, Mindshare, SharePoint Other Tools 
+ 
+     
+:  
+Putty, WinScp, SOA, 
+Junit, TestNG, POM, AutoPilot for MQ Operating System      
+:  
+Windows/XP professional, Citrix 
+Metaframe Server, Unix  PROFESSIONAL EXPERIENCE: UHG (Optum Insight), MN, USA - Oct 2015 to Till 
+Date Scrum Master, QA Lead â€“ Agile/Scrum/PM/QA - Care Manager (http://caremanager.optum.com) 
+Technologies: Java, Rally, ALM, ETL Datastage Director, SQL Developer, SharePoint, Jenkins, Git, JIRA, 
+Selenium, TestNG, MS Visio and Office, SOAP/REST, Swagger, AutoPilot, WinSCP, Putty, Beyond Compare 
+Role and Responsibilities:  Acted as the primary point of contact for the design team in all development 
+meetings which strengthened work alignment between development and design teams Developed and 
+maintain the design team's product backlog and roadmap improving team organization and clearly 
+defines sprint goals Responsible for managing global project teams and supporting Optum in their Agile 
+transformation. Facilitating workshops with multiple stakeholders, development and support teams to 
+create a common understanding of project objectives, features and user stories,  sprint planning, 
+tracking, removing impediments, communications and backlog grooming. Planned sprint priorities with 
+Product Owners & Product Managers to ensure proper design requirements are consistently met. 
+Facilitated scrum meetings and encouraged team collaboration to enable design team to achieve sprint 
+goals & deliverables. Aided our Product Manager & Product Owner by created and maintaining a 
+competitive analysis of similar products throughout the business intelligence/data analytics industry. 
+Removed impediments and combated evolving requirements by implementing a workflow oriented 
+process to better represent proper scope of stories while working with cross functional teams. Handled 
+scrum team consist of cross trained resources in Java , ETL resources and BI tools . Involved on effective 
+testing strategies to provide Quality Assurance and developed test cases. Managing software 
+development life cycle (SDLC) for Java, J2EE Projects including analysis, design, testing and 
+implementation of software applications. Source code and version control management with Git, Github 
+extension and SharePoint. Lead the daily scrum calls with offshore teams situated in different time zones 
+to monitor the progress of the deliverables. Guiding the team to produce quality software on a 
+predictable schedule using Agile/Scrum principles and practices. Coach teams through Scrum 
+ceremonies, including: Sprint Planning, Backlog Refinement, Sprint Demo, Sprint Retrospective, and Daily 
+Stand-up. Facilitating and following up on actions for all Scrum ceremonies including grooming, planning, 
+stand-ups, reviews and retrospectives. Creating and maintaining information radiators that track 
+progress at multiple levels, including following up with the team to ensure daily updates. Removing 
+impediments to team progress either directly or by finding the right personnel to remove the 
+impediment. Building a trusting and safe environment where problems can be raised without fear of 
+blame, retribution, or being judged, with an emphasis of healing and problem solving. Facilitating 
+discussion, decision making, and conflict resolution. Helping the team to continually evolve the process, 
+seeking improvements and greater efficiency. Assisting with internal and external communication, 
+improving transparency, and radiating information. Supporting and educating the Product Owner, 
+especially with respect to grooming and maintaining the product backlog. Provide process and tool 
+training and coaching for new projects and new team members. Providing all support to the team using 
+a servant leadership style whenever possible, and leading by example. Implementing SAFe inorder to 
+Visualize and limit WIP, reduce batch sizes and manage queue lengths. Apply cadence, synchronize with 
+cross-domain planning using SAFe, Decentralize decision-making- SAFe concept. Manage scope and risks 
+associated with 4 major quarterly and 8 monthly releases annually. Evolve release and program 
+management processes as the organization incorporates Agile software development tools and 
+methodologies within IT. Performed initial risk assessment and document risk mitigation plans and 
+contingency procedures with the project team and maintain throughout life of the project. Managed and 
+optimized business processes using Six Sigma and Lean, including defining the KPIs . Interact with cross 
+functional teams to facilitate gathering of testing requirements. Assist with weekly daily scrum meetings 
+with offshore and onshore team. Performed impact analysis during QA planning. Work with trading 
+partners, clients, management, technical and non-technical personnel to create use cases and testing 
+documentation.  Involved in automating test cases and creating automation framework. Training and 
+Agile coaching  to team on how to use Agile/Scrum practices and values, implemented Agile 
+methodology throughout QA process. Conducted test planning, chose test strategy, coverage and 
+acceptance criteria. Created RACI to align team on responsibilities - improving overall testing process. 
+Writing test cases based on the requirements, Designed and developed test cases in ALM, Rally as well 
+as MS Excel. Use TDD, Continuous integration and testing methods. Created automated test script using 
+Selenium for regressing testing. Developed test execution sequences, Manually performed Integration, 
+Functional and Regression Testing. Executed manual test cases for releases , Performed basic backend 
+testing (SQL), Reported defects via Rally. Contribute in test planning, test estimation, test design, 
+executed manual test cases for releases in ALM & Rally. Performed basic backend testing (SQL), 
+Developed and tracked test productivity metrics. Collaborated with stakeholders, Participate in agile 
+scrum meeting and everyday meetings. Run regression test scripts via Selenium Webdriver, TestNG, 
+Maven tools.  HP (Hewlett Packard), TX, USA/ Kforce - Feb 2015 to Sep 2015 Scrum Master / QA Project 
+Manager â€“ Agile/Scrum/PM/QA - MD3 â€“ Master Data Control Point (MDCP) Role and 
+Responsibilities:  Driving Agile Scrum principles, values, behaviors and methodologies throughout the 
+organization. Assisting teams with planning and execution of ceremonies, use of selected standard Agile 
+tracking tool, User Story development. Used TFS as the tool to Backlog tracking, burn-down metrics, 
+velocity, and task management. Ensured a common understanding by setting expectations in accordance 
+with the Scrum principles, to align the stakeholders and team members. Following all the SCRUM 
+activities like Estimation, Sprint Demo, and Retrospective. Ensured product backlog management and 
+stories prioritization for consistent delivery. Coach teams and management towards improving Agile 
+process and metrics. Partnering with the Product Owner in keeping the Backlog groomed. Partnering 
+with the Scrum Master to ensure cross-team coordination. Identifying and maintaining relevant metrics 
+that give the team insight into how they are doing and reporting these metrics to management. 
+Encouraging adoption of a truly Agile mindset, including ownership, self-management and 
+empowerment. Managing overall operations for executing projects involving scoping, design & sourcing. 
+Create Backlog and prioritize the user stories based on their business value. Report team progress by 
+burn-down charts and by conducting Sprint demos. Record sprint metrics related to planned and 
+completed story points, test cases, and bugs resolved. Follow Agile best practices by conducting backlog 
+grooming sessions, Sprint planning, and Sprint retrospectives with the development team. Source code 
+and version control management with Subversion(SVN). Monitoring / tracking projects with respect to 
+budgeted cost, demand forecasts, time over-runs to ensure timely execution of projects. Addressing all 
+the important issues & defining best practices for project support and documentation. Mentoring and 
+training project members to enable them to perform their activities effectively. Performing project 
+estimation, project scheduling and project costing.  Steering Delivery Management for technical 
+deliverables of concurrent projects. Analyzing user requirements and designing testing specifications. 
+Developing test plans, test cases and testing strategies for Business Intelligence (â€œBIâ€methodology in delivering incremental features and monitor defined process adherence. 
+Coached/Mentored resources at different level, Prepare scope of sprint cycles and prioritize backlog. 
+Assist in migration from waterfall to agile methodologies, Perform Cost benefit analysis and ROI 
+assessments, forecasting. Develop templates of sprint cycles, work with users and stakeholders to 
+finalize acceptance criteria and align with release calendar. Demonstrate and validate sprints and sprint 
+retrospection, Conducting Sprint Demo and Sprint Retrospective. Handled project issues like staff 
+management, scope creep and Track PV, EV, AC, EAC and variance etc . Created automated excel and 
+sharepoint application for Project management matrices. Communicate with the stakeholders on a 
+regular basis to provide feedback on Implementation progress of the solutions, involve the architect 
+team in case of technical roadblock and Helping for technical solutions. Ensured product backlog 
+management and stories prioritization for consistent delivery. Expert knowledge of various Agile 
+methodologies. Hands-on admin experience using latest, industry-leading enterprise Agile Tools like MS 
+Project, Jira, Kanban. Drive execution of Unit and Systems Integration testing, following the complete 
+defect life cycle including JIRA. Involved in monitoring the defects and assign issues to the development 
+team, validate data quality with test metrics and providing test status summary on completion the 
+testing. Organize the kick-off, daily and weekly status meetings and send the Status Report to the Client. 
+Manages change in programme direction, scope, benefits, costs, and timing while minimising financial 
+risks. SQL Developer, PuTTY, WinSCP, SoapUI 4.6.3, HP UFT, ALM 11.5 tools and Batch processes are being 
+used for CS and CMS portfolios.  PROJECT TWO:  Sears Holdings Corporation, MI, USA - June 2012 to 
+March 2014 Associate Consultant /QA Project Lead â€“ Agile/Scrum/PM/QA , Kmart Point of Sale Tata 
+Consultancy Services - From June 2010 to Feb 2015 
+ Role and Responsibilities:  Worked as Onsite 
+Design and Execution Lead for 15 members team. Organize the testing kick-off meetings being a release 
+coordinator. Understand the testing effort by analyzing the requirements of project. Developing test 
+strategies and meeting project deadlines. Keep track of the new requirements or change in requirements 
+of the Project.  Organize the daily and weekly status meetings and send the Status Report to the Client. 
+Attend the regular client call and discuss the weekly status with the client.  Act as the single point of 
+contact between Development and Testers and Communication with the Client as per requirements. 
+Track and prepare the report of testing activities like test evaluation summary report, test case coverage. 
+Responsible for exhibiting leadership and form strategic relationships with the client to develop 
+integrated business solutions as per client needs. Managing onshore/offshore matrix teams of software 
+engineers, DBAs, support personnel, and project managers to deliver web eCommerce solutions. Scope 
+Planning and Risk evaluation, Client Interactions for business issues and maintenance activities. Defining 
+the responsibilities for onsite and offshore team and ensuring SLA is met. Reviewing the project status 
+and taking corrective measures with TCS team and managers. Responsible for all SLA (Service Level 
+Agreements), SLO (Service Level Objectives) and KPI (Key performance Indicators) for all Projects under 
+Communication, Industrial and Distribution Sectors. Responsible for exhibiting leadership and form 
+strategic relationships with the client to develop integrated business solutions as per client needs. 
+Perform risk management, assess project risks in conjunction with the client and develop risk mitigation 
+plans. Defining checkpoints and measuring project variance to ensure projects remain on target within 
+cost and scope commitments. Conduct periodic project audits and reviews with project managers and 
+advise necessary actions to steer the project on track, with client and TCS teams. Monitor utilization for 
+project team members, leverage quality initiatives to improve productivity of team members. 
+Successfully planned and managed multiple (simultaneous) projects using Agile/Scrum methods. 
+Advocate for Agile software development process, building backlogs and creating high performance 
+teams. Velocity of the team increased over 80%. Agile is a team of peers â€“ assisting team with making 
+appropriate commitments through story creation and selection, point estimation and task definition. 
+Responsible for proactively managing the budget assigned to the Project. Plan travel for Partition 
+Transition Managers both in US and India based on the transition budget and assigned work. Project 
+Tracking: Worked with JIRA to create projects, reports to track projects status and keep all stakeholders 
+informed. Supported the project teams on the use of JIRA and technical issues. Create, schedule and 
+assign tasks in Jira. Gather Lessons learned and share with stakeholders with suggestions on 
+improvement areas. Review various reports like test plan, traceability matrix, issue and risk report, 
+lesson learned etc. Assign task to all Testing Team members and ensure that all of them have sufficient 
+work in the project. Escalate the issues about project requirements, resources, project updates to 
+Project Manager and Senior Manager.  PROJECT THREE:  Walgreen Corporation, IL, USA - June 2010 to 
+May 2012 Principle Architect/QA Lead â€“ Agile/Scrum/PM/QA , Point of Sale (Nextgen POS), GMAC  
+Tata Consultancy Services - From June 2010 to Feb 2015 Role and Responsibilities:  Study the entire 
+application & process and propose solutions to improve the operational efficiency and business of the 
+client. Planning & scheduling for the testing phase and preparing of Functional Test Plan and the Test 
+Strategy. Interact with onshore TCS project manager and Client Leads. Define the responsibilities and 
+work assignment to the team members. Also mentor them and provide strategic guidance for the project 
+execution Executing different transactions on the Registers with different Tender types like Quickshop, 
+Photo, E-Commerce, Line Buster, Debit card, Credit cards etc. against a particular test case/functionality 
+for Dev Integration Testing. Responsible for Resource Management and Work Allocation and executed 
+Test Requirement Analysis, Test Spec Review and process improvement. Gathering requirements. 
+Interact with clients and various stake holders to priorities the changes / enhancement needed for the 
+project release. Define the responsibilities and work assignment to the team members. Also mentor 
+them and provide strategic guidance for the project execution. Resource planning and capacity 
+management - Planning for the resources required for a project and working out the effort capacity. 
+Work projection management - Maintaining a healthy work projection for the team and talking to the 
+customer in case there is a dearth of work. Customer communication and management - Interfacing with 
+the customers, resolving their queries/issues and giving timely updates to them . Work on establishing 
+transition methods from waterfall to agile. Operated and maintained agile iteration projects, acted as 
+scrum master, schedule and deliver sprints. Prepared and maintained backlog document for agile scrum. 
+Coordinate training sessions to horn the skills of team members. Share the expertise across various 
+teams by conducting technical, business and process related sessions. Involved in duties such as 
+including the development ofÂ work breakdown structuresÂ (WBS), requirements management, project 
+monitoring, and change management using Microsoft Project.Â  Involved in Updating existing test scripts 
+according the requirements for GMAC-RESCAP application. Interact with onshore TCS project manager 
+and Client Leads. Successfully managed teams of 5-10 members with Onsite-offshore coordination.  VISA 
+Inc., USA / Visa Resolution Online, Automation of VROL application with QTP 9.5 - Sept 2008 â€“ May 
+2010 Architect/QA Lead, Singapore & Indiaâ€“ Agile/Scrum/PM/QA , R S Software Ltd. Role and 
+Responsibilities:  Analyzed and reviewed functional overall design, technical overall designs and technical 
+detailed design documents for better understanding of the Extensions and Interfaces. Prepare Test Plan, 
+Prepare Estimation of testing effort and Test Strategies with different approaches. Performed automation 
+testing using SMART Framework and QTP 9.5. Analyzed Client request and requested the developers for 
+the design change by considering both positive and negative scenarios of business logics and developed 
+test case accordingly. Manage functional areas like financial and payment dispute modules being onsite 
+Coordinator. Used Quality Center to write, and execute the test cases.  Manage the application with 
+team coordination for weekly build releases and deployments. Conducted JAD sessions and interviews 
+with developers and SMEs for eliciting requirements. Involved in testing the layout of various Extension 
+screens as per design specifications. Executed the test cases for both functional and GUI testing in the 
+Regression suite. Used Rational Clear Quest to report application defects and enhancements request and 
+discussed with client to resolve technical issues. Created mockups (static and dynamic prototypes) of 
+webpages and GUI, visualized process flows, information flow using MS VISIO. Daily/Weekly coordinate 
+with VISA clients (USA, Singapore & India team) and development teams to identify the Data, 
+Environment and Application issues. Guiding team on technical matters in maintains and enhancing the 
+tools developed by the team Leading knowledge transition activities including Build and Integration tools 
+for daily build.  Bank of New York Mellon / Workbench Applications, Web Inquire, GSM  - From Dec 2006 
+to Aug 2008 Team Lead -  Cognizant Technology Solutions (CTS) Role and Responsibilities:   Analyzed 
+Business Requirements and System Specification to understand the application. Creating Master test 
+plans, test strategies, test scenarios and offshore ramp-up plans. Estimation of testing effort for modules, 
+Test planning, Validation of data, testing of final reports. Mapped test data by fetching data using 
+database tool QMF. Coordinated the project with cross-functional teams such as Business Process 
+Owners, End Users, IT, Stakeholders, etc. Involved in defect validation and reporting using Client 
+Specified Bug-Tracking tool. Preparing and reporting test execution statistics, Maintaining quality and 
+metrics documents. Identify Software bugs and interact with developers to resolve them to ensure the 
+integral aspect of QA environment, Regression testing was undertaken after every bug fix. Making 
+Requirement traceability matrices and Selecting regression test cases. Load and Performance testing for 
+simultaneous and concurrent users. Responsible for grooming the new resources joining the project. 
+Coordinate the activities across different teams such as product management team, development team, 
+QA team. Conduct weekly status meetings, tracked project tasks, issues regularly. Served as offshore 
+coordinator from Kolkata, India for an onsite team in Pittsburgh, Pennsylvania, US. Involved in client 
+interaction and getting KT from the client about applications and LOB structure. Involved in imparting KT 
+to onsite from offshore.  Directorate of General of Artillery, DV, AMS & MIS - June 2005 â€“ Nov 2006 
+Software Engineer/Lead - IBilt Technologies Limited Role and Responsibilities:   â€¢ 
+Involves in 
+Management of Test Plan, Test Strategies and validated the main modules of the system. â€¢
+ 
+Involved in Functional Testing, Integration Testing and Regression Testing. â€¢ 
+Test case 
+writing, creating test plan and test scripts, executing test cases. â€¢ 
+Logging bugs with the Tool 
+Defect Register and Publishing Test Results & Logs. â€¢ Involve in preparation and execution of 
+functional testing UI Test cases & Regression testing of AMS & MIS. â€¢ Act as liaison between various 
+stakeholders and project team. â€¢ 
+Perform functional analysis by understanding scope, 
+requirements and Business flow Documents. â€¢ 
+Participate and provide direction in Release 
+Management meetings. â€¢ 
+Manage test plan, schedule, scope, quality with change request and 
+ensure process is followed and risks are mitigated. â€¢ Perform Scope, time and Quality analysis, 
+schedule and execute as per plan and perform risk mitigation. â€¢ 
+Test planning, coordinate test 
+strategies, Project tracking and providing direction to team member as needed. â€¢ 
+Identify 
+dependencies, impediments and prepare development plan and work to resolve it effectively. â€¢
+ 
+Reviewing the status of the project and taking corrective measures. â€¢ Prepare integration 
+testing plan, execute with team and validate results, perform root cause analysis. â€¢ 
+Participate in all 
+testing phases like integration testing, performance testing, End-to-End testing, UAT and shakeout testing 
+to ensure adherence to testing practice.  Legal Judgments Management System, PMS - Jan 2004 to May 
+2005 Software Engineer â€“ IT / Xorient Technologies Pvt. Ltd. Role and Responsibilities:    Testing of the 
+project, includes Test planning, Acceptance testing, Structured testing and regression testing, inspecting 
+others test plans.  Involved in writing test cases at integration and system level with version control CVS. 
+Review of Test Cases, Execution of Test Cases, track the Bugs founded in the Excel Sheet. Collaborated 
+with other analysts and IT staff in refining data retrieval and utilization strategies. Involved 
+inÂ Requirement GatheringÂ and analysis by interviewing users, application owner and SME's. Assisted 
+in identification of data Attributes for the data required by the users & development ofÂ data 
+mappingÂ &Â data dictionaries. Involved in creating variousÂ PL/SQL stored procedures,Â views, 
+functionsÂ and temporary tables for data input to the Crystal Reports. Worked with SQL queries for data 
+manipulations. Prepared various deliverables likeÂ Use case Diagram, Activity diagram,Â Entity 
+relationship diagram, process flow diagrams, data flow diagrams using UML and MS VISIO. Designed and 
+implementedÂ SQLÂ queries usingÂ joinsÂ andÂ sub-queries. Worked with project manager for 
+identifying project milestones, tasks and preparing project charter, project plans and project status 
+reports during entire project life cycle. Assisted in analyzing data sources and defining data flows and 
+dependencies. Effectively implemented the Change Management and assisted in defect management 
+process. Assisted in the test plans for System Integration Testing and User Acceptance Testing.  Tata 
+Infotech Ltd. - From Jul 2003 to Dec 2003 Software Trainee â€“ IT Role and Responsibilities: Elicited 
+requirements by identifying system users and conducting interviews. Created the FRD, BRD and SRS 
+artifacts after gathering input from business owners and other stakeholders. Performed GAP analysis, 
+cost-benefit analysis and feasibility analysis within the triple constraints. Created visual flow and UML 
+diagrams for use cases, user interface, process flow and information flow. Utilized RUP methodology to 
+develop the web application to satisfy the warranted periodic functionality releases. Managed project 
+documents and other deliverables on SharePoint. Managed scope and requirements throughout the 
+project 
+",4,17.0
+ba_cv_3.pdf,"IT Skills: Area Exposure Modeling Tool: Bizagi, MS Visio Prototyping Tool: Indigo Studio. Documentation: 
+MS Office (MS Word, MS Excel, MS Power Point) Testing Proficiency: Smoke, Sanity, Integration, 
+Functional, Acceptance and UI Methodology implemented: Waterfall, Agile (Scrum) Database: SQL 
+Testing Tool: HPQC Business Exposure Education Details  
+ Bachelor Of Computer Engineering Computer Engineering Mumbai, Maharashtra Thadomal Shahani 
+Engineering college 
+ Diploma Computer Engineering Ulhasnagar, Maharashtra Institute of Technology 
+ Secondary School Certificate  Ulhasnagar, Maharashtra New English High School 
+Senior Business Analyst - RPA  
+ 
+Senior Business Analyst - RPA - Hexaware Technologies 
+Skill Details  
+DOCUMENTATION- Exprience - 47 months 
+TESTING- Exprience - 29 months 
+INTEGRATION- Exprience - 25 months 
+INTEGRATOR- Exprience - 25 months 
+PROTOTYPE- Exprience - 13 monthsCompany Details  
+company - Hexaware Technologies 
+description - Working as a RPA Business Analyst 
+company - BBH- Brown Brothers Harriman & Co 
+description - is a private bank that provides commercial banking, investment management, brokerage, 
+and trust services to private companies and individuals. It also performs merger advisory, foreign 
+exchange, custody services, commercial banking, and corporate financing services. 
+ 
+Responsibilities: Ã¢Â€Â¢ Performed Automation Assessment of various Processes and identified 
+processes which can be candidates of RPA. 
+Ã¢Â€Â¢ Conducting Assessment that involves an initial Understanding of the Existing System, their 
+technology, processes, Usage of the tools, Feasibility of tool with automation tool along with automation 
+ROI analysis. 
+Ã¢Â€Â¢ Preparing the Automation Potential Sheet which describes the steps in the process, the volume 
+and frequency of the transaction, the AHT taken by SME to perform the process and depending on the 
+steps that could be automated, Automation potential and the manual efforts that will be saved are 
+calculated. 
+Calculating the complexity of the Process which is considered for automation and depending on all these 
+factors Number of Bots and Number of Automation tool Licenses are determined. 
+Ã¢Â€Â¢ Implementing a Proof of Concept (POC) to Validate Feasibility by executing the selected critical 
+use cases for conducting a POC which will helps to identify financial and operational benefits and provide 
+recommendations regarding the actual need for complete automation. 
+Ã¢Â€Â¢ Gathering business requirements by conducting detailed interviews with business users, 
+stakeholders, and Subject Matter Experts (SME's) Ã¢Â€Â¢ Preparing Business Requirement Document 
+and then converted Business requirements into Functional Requirements Specification. 
+ Ã¢Â€Â¢ Constructing prototype early toward a design acceptable to the customer and feasible. 
+Ã¢Â€Â¢ Assisting in designing test plans, test scenarios and test cases for integration, regression, and 
+user acceptance testing (UAT) to improve the overall quality of the Automation. 
+Ã¢Â€Â¢ Participating regularly in Walkthroughs and Review meetings with Project Manager, QA 
+Engineers, and Development team. 
+Ã¢Â€Â¢ Regularly interacting with offshore and onshore development teams. 
+company - FADV - First Advantage 
+description - is a criminal background check company that delivers global solutions ranging from 
+employment screenings to background checks. 
+The following are the processes which were covered: 
+Email Process, Research Process, Review Process. 
+ 
+Responsibilities: Ã¢Â€Â¢ Requirement Gathering through conducting Interviews & Brainstorming 
+sessions with stakeholders Ã¢Â€Â¢ To develop decision models and execute those rules as per the use 
+case specifications. 
+Ã¢Â€Â¢ To Test/validate the decision models against document test data. 
+Ã¢Â€Â¢ To maintain and enhance the decision models for changes in regulations as per use case 
+specifications. 
+Ã¢Â€Â¢ Responsible for performing the business research that will make a business growth. 
+Ã¢Â€Â¢ Developing a clear understanding of existing business functions and processes. 
+Ã¢Â€Â¢ Effectively communicate with the onsite clients for the queries, suggestions, and update. 
+Ã¢Â€Â¢ Giving suggestions to enhance the current processes. 
+Ã¢Â€Â¢ Identifying areas for process improvement. 
+Ã¢Â€Â¢ Flagging up potential problems at an early stage. 
+Ã¢Â€Â¢ Preparing PowerPoint presentations and documents for business meetings. 
+Ã¢Â€Â¢ Using any information gathered to write up detailed reports. 
+Ã¢Â€Â¢ Highlighting risks and issues that could impact project delivery. 
+Ã¢Â€Â¢ Able to work accurately. 
+Ã¢Â€Â¢ To develop and maintain documentation for internal team training and client end user 
+operations. 
+Ã¢Â€Â¢ To work efficiently with team members and across teams. 
+Ã¢Â€Â¢ To mentor and train junior team members. 
+company - Clinical Testing, Lab Work and Diagnostic Testing 
+description - IQVIA provides services to its customers this includes: Clinical Testing, Lab Work and 
+Diagnostic Testing under clinical trial. These customers need to pay to IQVIA and aging details and 
+invoices are generated for the same. 
+The following are the processes which were covered: 
+ 
+Tracking Payments, Automated Real Time Metrics Reporting (Dashboard), Past Due Notifications, AR 
+Statements, Credit/Rebill. 
+Responsibilities: Ã¢Â€Â¢ Conducting meetings with clients and key stakeholders to gather requirements, 
+analyze, finalize and have formal sign-offs from approvers Gather and perform analysis of the business 
+requirements Ã¢Â€Â¢ Translating the business requirements into the Business Requirement Document 
+[BRD], Functional Requirement Document [FRD]. 
+Ã¢Â€Â¢ Facilitating meetings with the appropriate subject matter experts in both business and 
+technology teams Ã¢Â€Â¢ Coordinating with business user community for the execution of user 
+acceptance test as well as tracking issues Ã¢Â€Â¢ Working, collaborating and coordinating with Offshore 
+and Onsite team members to fulfill the BA responsibilities from project initiation to Post-Implementation 
+Ã¢Â€Â¢ Reviewing the test scripts with business users as well as technology team. Execute test scripts 
+with expected results for the System Integration Test (SIT) and User Acceptance Test (UAT) Ã¢Â€Â¢ 
+Coordinating and conducting the Production Acceptance Testing (PAT) with the business users Ã¢Â€Â¢ 
+Creating flow diagrams, structure charts, and other types of system or process representations Ã¢Â€Â¢ 
+Managing changes to requirements and baseline through a change control process Ã¢Â€Â¢ Utilizing 
+standard methods, design and testing tools throughout project development life cycle Ã¢Â€Â¢ Work 
+closely with the operational functional teams, operations management, and personnel, and various 
+technology teams to facilitate a shared understanding of requirements and priorities across all areas 
+company - Eduavenir IT Solution 
+description - Project: M.B.M.S 
+ 
+M.B.M.S. - is an Inventory management application that allows user to manage inventory details of 
+different warehouses, having different products located at various locations and help extract what goods 
+have been procured, sold or returned by customers. It generates automated invoicesalong 
+withcustomized reports. It also managescustomer complaint and resolution system implementation 
+along with automated MIS on monthly basis.Sales and forecastingis also developed on MIS System and 
+the streamlining of process of warehousing and dispatch along with online proof of delivery 
+management system (POD documentation) is generated. 
+ 
+Responsibilities: Ã¢Â€Â¢ Participate in requirement gathering discussion with client to understand the 
+flow of business processes Ã¢Â€Â¢ Analyze the requirements and determine the core processes, 
+develop Process Documentation and ensure to stay up-to-date in conjunction with on-going changes 
+Ã¢Â€Â¢ Participate in process flow analysis and preparing BRD, SRS. 
+Ã¢Â€Â¢ Coordinating with developers, designers & operations teams for various nuances of the project, 
+communicate the stakeholder requirements from requirement /enhancement to implementation and 
+finally deliver the same within estimated timeframe. 
+Ã¢Â€Â¢ Support UAT by reviewing test cases, manage version control of documents, software builds. 
+Ã¢Â€Â¢ Coordinate with the stakeholders for UAT sign off and coordinate internally for production 
+movement till Golive stage of the application. 
+Ã¢Â€Â¢ Provide demo and training to internal and end user using PowerPoint presentation. 
+Ã¢Â€Â¢ Resolving project functional &technical issues during UAT. 
+Ã¢Â€Â¢ Prioritizing the Production bugs and resolving the same within the estimated timeframe. 
+Ã¢Â€Â¢ Preparing Project Status Report and Production Bugs Status to all the stakeholders. 
+Ã¢Â€Â¢ Promoting and Networking for online trading platform. 
+Ã¢Â€Â¢ Designing query sheet for obtaining and comparison of quotes from various vendors. 
+Ã¢Â€Â¢ Development of product codes / material codes for inventory management (Master Data 
+Management) 
+company - CAPGEMINI Head Office 
+description - Type: Mobile and Device Testing.       Duration: January 2014 - August 2014 
+ 
+Follet - An application which takes an electronic request from the user for the books he requires from a 
+particular follet store. This detailed information about books that will include the name of the book, its 
+price, the date of the transaction and the parties involved which will then be sent to follet stores. User 
+then create request for one or more books for a given date. This request is then processed further and 
+user gets a mail of the date when he will be provided with that book. 
+ 
+Responsibilities: Ã¢Â€Â¢ Understanding the needs and business requirements. 
+Ã¢Â€Â¢ Preparing BRD, SRS by eliciting all the requirements from the client and SMEs Ã¢Â€Â¢ 
+Understanding the dependency of the modules in the system Ã¢Â€Â¢ Preparation of test plan for Unit 
+level and Integration level. 
+Ã¢Â€Â¢ Preparation and execution of test cases. 
+Ã¢Â€Â¢ Defect tracking, Issue Resolution, Risk Monitoring, Status Tracking, Reporting and Follow-up. 
+Ã¢Â€Â¢ Preparation of Test Completion report. 
+company - CAPGEMINI Head Office 
+description -  
+company - CAPGEMINI Head Office 
+description - Humana is a health care insurance project of U.S. which deals with supplying various 
+medicines to citizens as per the doctor's reference and patient's insurance policy. This application keeps 
+track of all the medicines user has consumed in the past and generates a patient history. A citizen is 
+given a drug only after the doctor's reference so the doctor's information is also linked with the patient's 
+history. 
+ 
+Responsibilities: Ã¢Â€Â¢ Understanding the requirements and getting clarifications from client. 
+Ã¢Â€Â¢ Involved in writing test cases based on test scenarios and execute them. 
+Ã¢Â€Â¢ Ensuring Test Coverage using Requirement Traceability Matrix (RTM) Ã¢Â€Â¢ Preparation of Test 
+Completion report. 
+company - CAPGEMINI Head Office 
+description - Testing Trends WQR (World Quality Report) is an application which allows the users to take 
+a survey on different methods and technologies used for testing. Users can choose to answer any type of 
+questions under three different categories. Users have a facility to search, view and export the data to 
+excel. Also, users get daily and weekly reports through email about the new trends in testing 
+implemented around the globe. Testing Trends WQR app is available on Android and IOS platforms. 
+ 
+Responsibilities: Ã¢Â€Â¢ Understanding the requirements and getting clarifications from client. 
+Ã¢Â€Â¢ Writing test cases based on test scenarios and executed them. 
+Ã¢Â€Â¢ Performing different types of testing such as Functional, Integration, System, and UAT. 
+Ã¢Â€Â¢ Defect resolution and maintenance of the application. 
+",5,7.000000000000001
+Bhawana_Aggarwa.pdf,"Education Details  
+ B.Tech   Rayat and Bahra Institute of Engineering and Biotechnology 
+Data Science  
+ 
+Data Science 
+Skill Details  
+Numpy- Exprience - Less than 1 year months 
+Machine Learning- Exprience - Less than 1 year months 
+Tensorflow- Exprience - Less than 1 year months 
+Scikit- Exprience - Less than 1 year months 
+Python- Exprience - Less than 1 year months 
+GCP- Exprience - Less than 1 year months 
+Pandas- Exprience - Less than 1 year months 
+Neural Network- Exprience - Less than 1 year monthsCompany Details  
+company - Wipro 
+description - Bhawana Aggarwal 
+E-Mail:bhawana.chd@gmail.com 
+Phone: 09876971076 
+VVersatile, high-energy professional targeting challenging assignments in Machine 
+PROFILE SUMMARY 
+Ã¢Â–Âª An IT professional with knowledge and experience of 2 years in Wipro Technologies in Machine 
+Learning, Deep Learning, Data Science, Python, Software Development. 
+Ã¢Â–Âª Skilled in managing end-to-end development and software products / projects from inception, 
+requirement 
+specs, planning, designing, implementation, configuration and documentation. 
+Ã¢Â–Âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural 
+Network, 
+NLP, GCP. 
+Ã¢Â–Âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks. 
+Ã¢Â–Âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance 
+Trade off, 
+Support vector Machine(SVM),Logistic Regression, Neural networks. 
+Ã¢Â–Âª Have knowledge on unsupervised, Supervised and reinforcement data. 
+Ã¢Â–Âª Programming experience in relational platforms like MySQL,Oracle. 
+Ã¢Â–Âª Have knowledge on Some programming language like C++,Java. 
+Ã¢Â–Âª Experience in cloud based environment like Google Cloud. 
+Ã¢Â–Âª Working on different Operating System like Linux, Ubuntu, Windows. 
+Ã¢Â–Âª Good interpersonal and communication skills. 
+Ã¢Â–Âª Problem solving skills with the ability to think laterally, and to think with a medium term and 
+long term 
+perspective 
+Ã¢Â–Âª Flexibility and an open attitude to change. 
+Ã¢Â–Âª Ability to create, define and own frameworks with a strong emphasis on code reusability. 
+TECHNICAL SKILLS 
+Programming Languages Python, C 
+Libraries Seaborn, Numpy, Pandas, Cufflinks, Matplotlib 
+Algorithms 
+KNN, Decision Tree, Linear regression, Logistic Regression, Neural Networks, K means clustering, 
+Tensorflow, SVM 
+Databases SQL, Oracle 
+Operating Systems Linux, Window 
+Development Environments NetBeans, Notebooks, Sublime 
+Ticketing tools Service Now, Remedy 
+Education 
+UG Education: 
+B.Tech (Computer Science) from Rayat and Bahra Institute of Engineering and Biotechnology passed with 
+78.4%in 
+2016. 
+Schooling: 
+XII in 2012 from Moti Ram Arya Sr. Secondary School(Passed with 78.4%) 
+X in 2010 from Valley Public School (Passed with 9.4 CGPA) 
+WORK EXPERINCE 
+Title : Wipro Neural Intelligence Platform 
+Team Size : 5 
+Brief: WiproÃ¢Â€Â™s Neural Intelligence Platform harnesses the power of automation and artificial 
+intelligence 
+technologiesÃ¢Â€Â”natural language processing (NLP), cognitive, machine learning, and analytics. The 
+platform 
+comprises three layers: a data engagement platform that can easily access and manage multiple 
+structured and 
+unstructured data sources; an Ã¢Â€Âœintent assessment and reasoningÃ¢Â€Âusing Keras TensorFlow framework. 
+OTHER PROJECTS 
+Title : Diabetes Detection 
+Brief : Developed the software which can detect whether the person is suffering from Diabetes or not 
+and got the third 
+prize in it. 
+TRAINING AND CERTIFICATIONS 
+Title: Python Training, Machine Learning, Data Science, Deep Learning 
+Organization: Udemy, Coursera (Machine Learning, Deep Learning) 
+Personal Profile 
+FatherÃ¢Â€Â™s Name :Mr. Tirlok Aggarwal 
+Language Known : English & Hindi 
+Marital Status :Single 
+Date of Birth(Gender):1993-12-20(YYYY-MM-DD) (F) 
+company - Wipro 
+description - Developing programs in Python. 
+company - Wipro 
+description - Title : Wipro Neural Intelligence Platform 
+Team Size : 5 
+Brief: WiproÃ¢Â€Â™s Neural Intelligence Platform harnesses the power of automation and artificial 
+intelligence 
+technologiesÃ¢Â€Â”natural language processing (NLP), cognitive, machine learning, and analytics. The 
+platform 
+comprises three layers: a data engagement platform that can easily access and manage multiple 
+structured and 
+unstructured data sources; an Ã¢Â€Âœintent assessment and reasoningÃ¢Â€ÂNLP to handle such queries. User can see the how their queries can be answered quickly like allL1 
+activities can be 
+eliminated. 
+Entity Extractor -> This involves text extraction and NLP for fetching out important information from the 
+text like 
+dates, names, places, contact numbers etc. This involves Regex, Bluemix NLU apiÃ¢Â€Â™s and machine 
+learning using 
+Tensor flow for further learning of new entities. 
+Classifier ->This involves the classifications of classes, training of dataset and predicting the output using 
+the SKLearn 
+classifier (MNB, SVM, SGD as Classifier) and SGD for the optimization to map the user queries with the 
+best 
+suited response and make the system efficient. 
+NER: A Deep Learning NER Model is trained to extract the entities from the text. Entities like Roles, Skills, 
+Organizations can be extracted from raw text. RNN(LSTM) Bidirectional model is trained for extracting 
+such entities 
+using Keras TensorFlow framework. 
+company - Wipro Technologies 
+description - An IT professional with knowledge and experience of 2 years in Wipro Technologies in 
+Machine 
+Learning, Deep Learning, Data Science, Python, Software Development. 
+Ã¢Â–Âª Skilled in managing end-to-end development and software products / projects from inception, 
+requirement 
+specs, planning, designing, implementation, configuration and documentation. 
+Ã¢Â–Âª Knowledge on Python , Machine Learning, Deep Learning, data Science, Algorithms, Neural 
+Network, 
+NLP, GCP. 
+Ã¢Â–Âª Knowledge on Python Libraries like Numpy, Pandas, Seaborn , Matplotlib, Cufflinks. 
+Ã¢Â–Âª Knowledge on different algorithms in Machine learning like KNN, Decision Tree, Bias variance 
+Trade off, 
+Support vector Machine(SVM),Logistic Regression, Neural networks. 
+Ã¢Â–Âª Have knowledge on unsupervised, Supervised and reinforcement data. 
+Ã¢Â–Âª Programming experience in relational platforms like MySQL,Oracle. 
+Ã¢Â–Âª Have knowledge on Some programming language like C++,Java. 
+Ã¢Â–Âª Experience in cloud based environment like Google Cloud. 
+Ã¢Â–Âª Working on different Operating System like Linux, Ubuntu, Windows. 
+Ã¢Â–Âª Good interpersonal and communication skills. 
+Ã¢Â–Âª Problem solving skills with the ability to think laterally, and to think with a medium term and 
+long term 
+perspective 
+Ã¢Â–Âª Flexibility and an open attitude to change. 
+Ã¢Â–Âª Ability to create, define and own frameworks with a strong emphasis on code reusability. 
+",6,11.0

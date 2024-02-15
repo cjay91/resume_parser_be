@@ -1,0 +1,15 @@
+Leading organization looking for dynamic individuals to join as Senio Data Engineer Location: 
+Colombo Designation: Senior Data Engineer Your key role and responsibilities • Hands on role on 
+data models, data storage, cleansing, validation integration and transformation and data migration to 
+manage data within the organization, for a small to medium-sized project • Responsible to building 
+pipelines, perform data profiling, implement data quality rules • Need to work as a team member to 
+contribute in various technical streams of project implementation • Interface and communicate with 
+the onsite coordinators • Completion of assigned tasks on time and regular status reporting to the 
+lead Skills and attributes for success • In-depth cloud domain experience with focus on Microsoft 
+Azure / Microsoft Azure Stack solutions • Experience building on Azure using Databricks, ADF • 
+Good to have Synapse experience • Sound programming, debugging/troubleshooting and problem-
+solving skills with familiarity in Scala/ Java / Python on Spark/ Pyspark • Strong knowledge in 
+Pyspark/ Spark SQL/My SQL/SQL • Strong data warehousing concepts • Good analytical skills • 2 
+years of work experience with very large data warehousing environment • 2 years of experience with 
+detailed knowledge of data warehouse technical architectures, infrastructure components, ETL/ ELT 
+and reporting/analytic tools. • Specialization in a specific sector/domain will be an added advantage 
